@@ -1,0 +1,6 @@
+{
+  "name": "B2C Shipments",
+  "description": "A high-speed logistics tool for processing B2C shipments, featuring automated CSV transformation, unit value calculation, and country code mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
